@@ -1,0 +1,5 @@
+lst=[]
+import time
+for i in lst:
+    time.sleep()
+    print(i)
